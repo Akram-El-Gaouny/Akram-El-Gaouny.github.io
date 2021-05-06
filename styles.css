@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+*{
+    
+}
+.upper-divider{
+    background-color: #141518;
+    height:20px;
+}
+
+.navbar-style{
+    border-bottom: 2px solid grey;
+    background-color: white;
+}
+
+.navbar-style a{
+    color: #464c73 !important;
+}
+
+.navbar-style a:hover{
+    color: goldenrod !important;
+}
+
+.miniNav{
+    background-color: #464c73 !important;
+}
+
+
+.CurrentNav{
+    
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.logo{
+    color: #464c73 !important; 
+    font-size: 30px;
+}
+
+.homeButton{
+    margin-top: 10px !important;
+    font-size: 30px !important;
+    padding: 10px !important;
+    background-color: #464c73 !important;
+    color:white !important;
+    border-radius: 10px !important;
+    width: 200px !important;
+}
+
+.homeButton:hover{
+    color:goldenrod !important;
+    box-shadow: 5px 5px #464c73;
+}
+
+.status{
+    color: #464c73 ;
+    padding: 20px;
+    border: 3px solid #333 !important;
+    border-radius: 25px;
+}
+
+.seeking{
+    color:green;
+}
+
+.resumeTitle{
+    font-size: 80px;
+    color: #464c73
+}
+
+.heading{
+    font-size: 30px;
+    color:goldenrod;
+    font-weight: bold;
+    
+}
+
