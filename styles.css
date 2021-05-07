@@ -48,7 +48,7 @@
 .homeButton:hover{
     color:goldenrod !important;
     box-shadow: 5px 5px #464c73;
-    text-decoration: none ;
+    text-decoration: none !important;
 }
 
 .status{
