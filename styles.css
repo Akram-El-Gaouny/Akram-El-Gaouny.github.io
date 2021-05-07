@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
-*{
-    
-}
 .upper-divider{
     background-color: #141518;
     height:20px;
@@ -19,6 +16,7 @@
 
 .navbar-style a:hover{
     color: goldenrod !important;
+    
 }
 
 .miniNav{
@@ -50,6 +48,7 @@
 .homeButton:hover{
     color:goldenrod !important;
     box-shadow: 5px 5px #464c73;
+    text-decoration: none ;
 }
 
 .status{
